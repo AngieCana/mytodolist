@@ -1,6 +1,31 @@
 .App {
   text-align: center;
 }
+body{
+  background-image: url('https://i.pinimg.com/736x/24/a7/d8/24a7d8679ee5f32f1ea4d37813e2487e.jpg');
+  background-repeat: repeat-x;
+}
+
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-top: 100px;
+  font-size: 50px;
+}
+
+button{
+  border-radius: 15px;
+  border: none;
+  width: 100px;
+  cursor: pointer;
+  padding: 5px;
+  margin: 10px;
+}
+
+input{
+  border: none;
+  padding: 5px;
+  border-radius: 10px;
+}
 
 .App-logo {
   height: 40vmin;
